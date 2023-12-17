@@ -1,6 +1,6 @@
 🚀 Welcome to my coding universe! 🌌
 
-🎓 College Explorer | 💻 Code Enthusiast | 🌐 Web Wizard
+🎓 College Explorer | 💻 Code Enthusiast 
 
 📚 Studying MSc Cyber Security at PSG College of Technology and on a mission to turn caffeine into code.
 
