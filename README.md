@@ -18,10 +18,45 @@
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
 </div>
 </div>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+```javascript
+const anmol = {
+    pronouns: "Bro" | "Bruh",
+    code: ["Python", "C", "C++"],
+    askMeAbout: ["Full Stack Development", "Machine learning"],
+    technologies: {
+        frontEnd: {
+            js: ["React"],
+            css: ["CSS3", "Tailwind", "Bootstrap"]
+        },
+        backEnd: {
+            python: ["Django","flask"]
+        },
+        databases: ["Mongo", "MySql", "Oracle"],
+        ML: ["Tensorflow"### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
+```javascript
+const anmol = {
+    pronouns: "Bro" | "Bruh",
+    code: ["Javascript", "HTML", "Python", "Java", "C++"],
+    askMeAbout: ["Web Dev", "Tech", "Machine learning", "Software Development", "TV Shows", "Content Writing", "Memes"],
+    technologies: {
+        frontEnd: {
+            js: ["Vanilla", "jQuery"],
+            css: ["CSS3", "Tailwind", "Bootstrap"]
+        },
+        backEnd: {
+            python: ["flask"]
+            java : ["JSP"]
+        },
+        devOps: ["GCP"], ["Azure"]
+        databases: ["Mongo", "MySql", "sqlite", "phpMyAdmin", "Oracle"],
+        ML: ["Tensorflow", "open-cv", "matplotlib", "pandas"]
+    },
+    currentProject: "Working on LLM to enhance my skills",
+};
+```
 <h3 align="left">Languages and Tools:</h3>
 
 - Backend
