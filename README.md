@@ -7,7 +7,10 @@
     <a href="https://www.instagram.com/barath.sk_">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=barath-sk17&style=flat-square&color=blue" alt=""/>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=barath-sk17&style=flat-square&color=blue" alt=""/>
 </div>
+---
 
+## My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
