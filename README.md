@@ -29,7 +29,7 @@ const barath = {
     technologies: {
         frontEnd: {
             js: ["React"],
-            css: ["CSS3", "Tailwind", "Bootstrap"]
+            css: ["Tailwind", "Bootstrap"]
         },
         backEnd: {
             python: ["Django","flask"]
@@ -45,7 +45,7 @@ const barath = {
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,py,flask" />
+    <img src="https://skillicons.dev/icons?i=django,nodejs,py,flask" />
   </a>
 </p>
 
