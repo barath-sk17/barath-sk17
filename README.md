@@ -26,17 +26,6 @@ const barath = {
     pronouns: "Bro" | "Bruh",
     code: ["Python", "C", "C++"],
     askMeAbout: ["Full Stack Development", "Machine learning"],
-    technologies: {
-        frontEnd: {
-            js: ["React"],
-            css: ["Tailwind", "Bootstrap"]
-        },
-        backEnd: {
-            python: ["Django","flask"]
-        },
-        databases: ["Mongo", "MySql", "Oracle"],
-        ML: ["Tensorflow", "open-cv", "matplotlib", "pandas"] 
-    },
     currentProject: "Working on LLM to enhance my skills",
 };
 ```
