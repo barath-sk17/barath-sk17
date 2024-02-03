@@ -23,8 +23,7 @@
 
 ```javascript
 const barath = {
-    pronouns: "Bro" | "Bruh",
-    code: ["Python", "C", "C++"],
+    languages: ["Python", "C", "C++"],
     askMeAbout: ["Full Stack Development", "Machine learning"],
     currentProject: "Working on LLM to enhance my skills",
 };
