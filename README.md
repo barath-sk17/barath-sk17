@@ -31,35 +31,35 @@ const barath = {
 <h3 align="left">Languages and Tools:</h3>
 
 - Backend
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,nodejs,py,flask" />
   </a>
 </p>
 
 - Frontend
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,tailwind,materialui" />
   </a>
 </p>
 
 - Database
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
 </p>
 
 - Cloud Servers
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=firebase" />
   </a>
 </p>
 
 - Tools
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,figma,xd,photoshop,illustrator,vscode,postman,linux" />
   </a>
@@ -68,6 +68,19 @@ const barath = {
 <br/>
 
 ## My Stats :
+
+<table border="0" align="center">
+<tr border="0">
+  <td width="50%" align="center">
+     <img src="https://github-readme-stats.vercel.app/api/?username=maanza-gs&amp;show_icons=true&amp;theme=radical" alt="GitHub stats">
+    
+  </td>
+
+  <td width="50%" align="center">
+    <img src="https://streak-stats.demolab.com?user=barath-sk17&amp;theme=radical&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+  </td>
+</tr>
+</table>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
