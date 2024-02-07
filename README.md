@@ -37,6 +37,8 @@ const barath = {
   </a>
 </p>
 
+<img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barath-sk&theme=radical" width="30%" alt="Barath K's Top Languages">
+
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
@@ -64,8 +66,6 @@ const barath = {
     <img src="https://skillicons.dev/icons?i=git,github,figma,xd,photoshop,illustrator,vscode,postman,linux" />
   </a>
 </p>
-
-<img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barath-sk&theme=radical" width="30%" alt="Maanasa's Top Languages">
 
 <br/>
 
