@@ -72,7 +72,7 @@ const barath = {
 <table border="0" align="center">
 <tr border="0">
   <td width="50%" align="center">
-     <img src="https://github-readme-stats.vercel.app/api/?username=maanza-gs&amp;show_icons=true&amp;theme=radical" alt="GitHub stats">
+     <img src="https://github-readme-stats.vercel.app/api/?username=barath-sk17&amp;show_icons=true&amp;theme=radical" alt="GitHub stats">
     
   </td>
 
