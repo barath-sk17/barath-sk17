@@ -31,39 +31,41 @@ const barath = {
 <h3 align="left">Languages and Tools:</h3>
 
 - Backend
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,nodejs,py,flask" />
   </a>
 </p>
 
 - Frontend
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,tailwind,materialui" />
   </a>
 </p>
 
 - Database
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
 </p>
 
 - Cloud Servers
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=firebase" />
   </a>
 </p>
 
 - Tools
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,figma,xd,photoshop,illustrator,vscode,postman,linux" />
   </a>
 </p>
+
+<img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barath-sk&theme=radical" width="30%" alt="Maanasa's Top Languages">
 
 <br/>
 
@@ -82,9 +84,6 @@ const barath = {
 </tr>
 </table>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barath-sk17&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Barath Graph](https://github-readme-activity-graph.vercel.app/graph?username=barath-sk17&custom_title=Barath's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
